@@ -30,7 +30,6 @@ All constraints (e.g. traffic) are tied to a period of one month.
 |             |Oracle  |Archive Storage                  |10GB|
 |             |Oracle  |Object Storage                   |10GB|
 |             |Oracle  |Object Storage - Infrequet Access|10GB|
-|             |Scaleway|Object Storage                   |75GB, 75GB external traffic, incomming traffic free|
 |Serverless   |Alibaba |Function Compute                 |1 Million Requests|
 |             |AWS     |Lambda                           |1 Million Requests|
 |             |Azure   |Container Apps                   |2 Million Requests|
@@ -70,7 +69,6 @@ All constraints (e.g. traffic) are tied to a period of one month.
 |        |Database     |NoSQL Database                   |25GB NoSQL|
 |render  |Database     |PostgreSQL                       |1GB SQL|
 |        |Database     |Redis                            |1GB NoSQL|
-|Scaleway|S3           |Object Storage                   |75GB, 75GB external traffic, incomming traffic free|
 
 ## Additional Guides
 
