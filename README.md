@@ -24,8 +24,7 @@ All constraints (e.g. traffic) are tied to a period of one month.
 |             |Oracle  |NoSQL Database                   |25GB NoSQL|
 |             |render  |PostgreSQL                       |1GB SQL|
 |             |render  |Redis                            |1GB NoSQL|
-|S3           |AWS     |Glacier                          |10GB|
-|             |GCP     |Cloud Storage                    |5GB only USA, region: us-west-1 OR us-central1 OR us-east-1, 1GB external traffic to every region except China or Australia, incomming traffic free|
+|S3           |GCP     |Cloud Storage                    |5GB only USA, region: us-west-1 OR us-central1 OR us-east-1, 1GB external traffic to every region except China or Australia, incomming traffic free|
 |             |IBM     |Object Storage                   |25GB|
 |             |Oracle  |Archive Storage                  |10GB|
 |             |Oracle  |Object Storage                   |10GB|
@@ -47,7 +46,6 @@ All constraints (e.g. traffic) are tied to a period of one month.
 |Alibaba |Database     |PolarDB                          |50GB SQL|
 |        |Serverless   |Function Compute                 |1 Million Requests|
 |AWS     |Database     |DynamoDB                         |25GB NoSQL|
-|        |S3           |Glacier                          |10GB|
 |        |Serverless   |Lambda                           |1 Million Requests|
 |Azure   |Database     |Cosmos DB                        |25GB NoSQL|
 |        |Serverless   |Container Apps                   |2 Million Requests|
